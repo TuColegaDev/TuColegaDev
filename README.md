@@ -1,4 +1,4 @@
-![AMDevelop Readme Header](./assets/header.jpg)
+![AMDevelop Readme Header](./assets/header-big.png)
 
 
 # Bienvenidos 
