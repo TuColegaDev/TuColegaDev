@@ -1,4 +1,4 @@
-![AMDevelop Readme Header](./assets/header-small.png)
+![AMDevelop Readme Header](./assets/github-header.png)
 
 
 # Bienvenidos 
