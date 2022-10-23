@@ -38,7 +38,7 @@
 
 ## Social links
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/amm_dev?label=Follow%20me&logo=Twitter&style=social)](https://twitter.com/amm_dev) [![GitHub followers](https://img.shields.io/github/followers/AMDevelopOB?label=Follow%20me&style=social)](https://github.com/AMDevelopOB)
+[![Twitter Follow](https://img.shields.io/twitter/follow/amm_dev?label=Twitter&logo=Twitter&style=social)](https://twitter.com/amm_dev) [![GitHub followers](https://img.shields.io/github/followers/AMDevelopOB?label=Github&style=social)](https://github.com/AMDevelopOB)
 
 
 
