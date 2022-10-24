@@ -26,7 +26,7 @@
 ![AdonisJS](https://img.shields.io/static/v1?label=&message=AdonisJS&color=5A45FF&logo=adonisjs&logoColor=FFFFFF) 
 ![NestJS](https://img.shields.io/static/v1?label=&message=NestJS&color=E0234E&logo=nestjs&logoColor=FFFFFF) 
 ![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=00ADD8&logo=Go&logoColor=FFFFFF) 
-![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF)  
+![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF)
 ![Spring](https://img.shields.io/static/v1?label=&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF) 
 
 ![MongoDB](https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF) 
