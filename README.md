@@ -15,7 +15,7 @@
 
 ## 💻 Technologies
 
-![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF) 
+![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=1572B6&logo=CSS3&logoColor=FFFFFF) 
 ![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF) 
 ![Javascript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=Javascript&logoColor=FFFFFF) 
