@@ -4,11 +4,7 @@
 
 ## 🧑🏻‍💻 Let me tell you about me
 > 
-> About the year 2016 I began to study as a programmer in higher level professional formation. When I finished my studies, I start working in a different sector than the one I had been preparing for and in which I performed various functions that had nothing to do with what I had learned in past years.
-> 
-> However, during these years I have acquired skills related to the commercial sector and cooperative work environments and for objectives that I would not have developed in other jobs.
-> 
-> Nowadays I have decided to return to what I could invest countless hours and fill me with energy. I am currently employed as a backend developer in [OpenBootcamp](https://open-bootcamp.com/) in which I am also training as a Full Stack developer in technologies such as React JS, Spring and Node JS. Developing projects totally oriented to the labor sector.
+> I am currently employed as a backend developer in [OpenBootcamp](https://open-bootcamp.com/) in which I am also training as a Full Stack developer in technologies such as Java, Spring, NodeJS, and NodeJS based frameworks. Developing projects totally oriented to the labor sector.
 > 
 > On the other hand, I continue to develop personally with writers, content creators and philosophies that help me in my day to day and connect my professional, sentimental and personal environment.
 
@@ -33,9 +29,6 @@
 ![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=4479A1&logo=mySQL&logoColor=FFFFFF) 
 ![PostgreSQL](https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&logo=postgresql&logoColor=FFFFFF) 
 ![GraphQL](https://img.shields.io/static/v1?label=&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF) 
-
-![Android](https://img.shields.io/static/v1?label=&message=Android&color=3DDC84&logo=Android&logoColor=FFFFFF) 
-![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=02569B&logo=Flutter&logoColor=FFFFFF) 
 
 
 ## Social links
