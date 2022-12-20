@@ -1,6 +1,6 @@
 # Welcome to my **Backend Developer** Github repository!
 
-![Readme Header](./assets/github-header.png)
+![Readme Header](./assets/backend-header.png)
 
 ## 🧑🏻‍💻 Let me tell you about me
 > 
