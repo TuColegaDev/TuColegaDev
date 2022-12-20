@@ -5,10 +5,11 @@
 </p>
 
 ## 🧑🏻‍💻 Let me tell you about me
+> I am a backend developer specializing in NodeJS with Typescript. I have experience working with both relational and non-relational databases, cache systems, event management, and cloud development. 
 > 
-> I am currently employed as a backend developer in [OpenBootcamp](https://open-bootcamp.com/) in which I am also training as a Full Stack developer in technologies such as Java, Spring, NodeJS, and NodeJS based frameworks. Developing projects totally oriented to the labor sector.
+> Currently, I am learning about automation and CI/CD processes and strive to create solid and scalable architectures. I am constantly seeking ways to improve my skills and am excited to learn new technologies to adapt to project needs. 
 > 
-> On the other hand, I continue to develop personally with writers, content creators and philosophies that help me in my day to day and connect my professional, sentimental and personal environment.
+> In addition, I also personally develop myself with writers, content creators, and philosophies that help me in my daily life and connect my professional and personal environment.
 
 
 ## 💻 Technologies
