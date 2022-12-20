@@ -1,6 +1,8 @@
 # Welcome to my **Backend Developer** Github repository!
 
-![Readme Header](./assets/backend-header.png)
+<p align="center"> 
+  <img src="./assets/backend-header.png" alt="Readme Header" width="500px"/>
+</p>
 
 ## 🧑🏻‍💻 Let me tell you about me
 > 
